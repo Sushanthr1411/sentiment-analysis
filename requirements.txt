@@ -4,3 +4,4 @@ numpy
 pandas
 pickle-mixin
 pickle-mixin
+scikit-learn
