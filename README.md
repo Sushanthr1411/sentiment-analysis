@@ -55,5 +55,3 @@ This project is a machine learning-based sentiment analysis tool designed to cla
 - `.pkl` files: Saved tokenizer and label encoder
 - `Sentiment_dataset.csv`: Dataset for training/testing
 
----
-Feel free to add setup instructions, usage examples, or more details as needed.
